@@ -9,7 +9,7 @@ html*{
 }
 body {
        margin: 0 0 0 0;
-       background-color: #81bddf;
+       background-color: #001b24;
 }
 .wrapper{
      margin: 0 auto 0 auto;
@@ -41,7 +41,7 @@ p{
      text-align center;
 }
 .kevvisual{
-     margin: 40px 0px 40px 230px;
+     margin:50px 0px 0px -120px;
      line-height: 0;
      text-align center;
 }
