@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+/* すべてのWebページに適用される */
+html{
+      font-family: "美咲ゴシック";
+}      
+html*{
+      box-sizing:border-box;
+}
+body {
+       margin: 0 0 0 0;
+       background-color: #81bddf;
+}
+.wrapper{
+     margin: 0 auto 0 auto;
+     max-width: 960px;
+}
+     
+h3{
+     color: #ffffff;
+     font-size: 22px;
+     
+}
+p{
+     border: 3px dotted #ffffff;
+     margin-top: 20px;
+     margin=right: 0px;
+     margin-bottom 20px;
+     margin-left: 0px;
+     padding-top: 5px;
+     padding-right: 5px;
+     padding-bottom: 5px;
+     padding-left: 5px;
+     line-height: 1.6;
+}
+
+/* すべてのヘッダーに適用　-　ヘッダー　- */
+.logo {
+     margin: 40px 0px 40px 70px;
+     line-height: 0;
+     text-align center;
+}
+.kevvisual{
+     margin: 40px 0px 40px 230px;
+     line-height: 0;
+     text-align center;
+}
